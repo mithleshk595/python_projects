@@ -19,3 +19,5 @@ result = map(lambda n1, n2:n1 + n2, lst1, lst2)
 print(list(result))
 
 
+
+
