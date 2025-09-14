@@ -18,3 +18,5 @@ n, a, s = zip(*lst)
 print(n)
 print(a)
 print(s)
+
+
